@@ -11,11 +11,11 @@
 - Estrelas animadas para avaliação do áudio;
 - Design inovador;
 
-##Screenshot
+## Screenshot
 
 ![](https://i.ibb.co/Vw38mck/home.png)
 
-##Contribuições
+## Contribuições
 
 Contribuições são o que fazem a comunidade open source um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será muito apreciada.
 
@@ -26,6 +26,6 @@ Contribuições são o que fazem a comunidade open source um lugar incrível par
 5. Faça o Push da Branch (git push origin feature/FeatureIncrivel)
 6. Abra uma Pull Request
 
-##Licença
+## Licença
 Distribuído sob a licença MIT. Veja LICENSE para mais informações.
 
