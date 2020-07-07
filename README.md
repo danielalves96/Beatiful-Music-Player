@@ -13,7 +13,7 @@
 
 ## Screenshot
 
-![](https://i.ibb.co/Vw38mck/home.png)
+![](https://github.com/danielalves96/Images/blob/master/Projetos/Music%20Player/1.png?raw=true)
 
 ## Contribuições
 
